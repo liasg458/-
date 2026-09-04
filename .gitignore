@@ -1,2 +1,6 @@
 .DS_Store
 __MACOSX/
+museum-sentiment/configs/api_key.txt
+museum-sentiment/configs/cookie.txt
+museum-sentiment/configs/xhs_cookie.txt
+museum-sentiment/README.md
